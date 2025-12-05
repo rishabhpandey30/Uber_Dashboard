@@ -1,11 +1,11 @@
-Uber Analysis Dashboard | Power BI Project
+### Uber Analysis Dashboard | Power BI Project
 📌 Project Overview
 
 This project presents an interactive Uber Analysis Dashboard built using Microsoft Power BI. The dashboard transforms raw Uber trip data into meaningful insights that help understand booking trends, vehicle performance, customer behavior, revenue patterns, and geographic distribution.
 
 The goal is to demonstrate strong analytical capabilities using data modeling, DAX calculations, and effective visualization techniques to support data-driven decision-making.
 
-🚀 Key Features
+## 🚀 Key Features
 1. Booking Analysis
 
 Total bookings, completed bookings, and lost bookings
@@ -46,7 +46,7 @@ Location-wise trip frequency
 
 Interactive map visuals
 
-🛠 Technical Skills Demonstrated
+## 🛠 Technical Skills Demonstrated
 
 Power BI Desktop
 
@@ -63,7 +63,7 @@ ETL Processing in Power Query
 Dashboard UI/UX Design
 
 
-📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 The dashboard provides:
 
@@ -77,7 +77,7 @@ A clean and user-friendly layout
 
 Analytical storytelling through visuals
 
-🎯 Project Purpose
+## 🎯 Project Purpose
 
 This project demonstrates how business intelligence tools like Power BI can be used to:
 
@@ -91,7 +91,7 @@ Understand customer and driver behavior
 
 Provide actionable insights through visuals
 
-📎 How to Use
+## 📎 How to Use
 
 Download the .pbix file from this repository
 
